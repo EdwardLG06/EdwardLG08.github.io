@@ -1,0 +1,44 @@
+body{
+    background-color:white;
+}
+#title{
+    text-align: center;
+    font-size: 60px;
+    background-color: #808080;
+    color: white;
+    height: 100px;
+}
+#Inceput{
+    text-align: justify;
+    font-size: 20px;
+}
+#StrangereMana{
+    text-align: justify;
+    font-size: 20px;
+    position: relative;
+    top: 50px;
+}
+#Tabel1{
+    position: relative;
+    top:100px
+}
+table{
+    width: 800px;
+    height: 250px;
+}
+table, th, td{
+    border: 1px solid;
+    font-size: 20px;
+}
+#imagine{
+    position: relative;
+    left: 1000px;
+    bottom: 300px;
+    border-radius: 50%;
+}
+#andrew{
+    position: relative;
+    bottom: 200px;
+    font-size: 20px;
+    border: 5px #808080 solid;
+}

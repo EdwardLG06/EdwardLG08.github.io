@@ -1,0 +1,89 @@
+body{
+    background-color: white;
+}
+h1{
+    color: black;
+}
+hr{
+    border: 2px black solid;
+    border-radius: 5%;
+}
+#title{
+    text-align: center;
+    font-size: 80px;
+}
+.meniu{
+    position: relative;
+    top: 20px;
+}
+.lista{
+    display: flex;
+    font-size: 40px;
+    list-style-type: none;
+    justify-content: center;
+}
+#primul{
+    position: relative;
+    right: 50px;
+}
+#alDoilea{
+    position: relative;
+    left:50px;
+}
+#imagine{
+    position: relative;
+    left: 400px;
+}
+#imagine2{
+    position: relative;
+    left: 1600px;
+    bottom: 380px;
+}
+.buton{
+    position: relative;
+    top: 800px;
+    left: 50px;
+
+}
+.sefu{
+    position: relative;
+    font-size: 25px;
+}
+#imagine3{
+    position: relative;
+    bottom: 200px;
+}
+#imgaine5{
+    position: relative;
+    bottom: 350px;
+    right: 510px;
+}
+#imagine6{
+    position: relative;
+    bottom: 650px;
+    left: 220px;
+}
+#imagine7{
+    position: relative;
+    bottom: 300px;
+    left: 500px;
+}
+#imgaine4{
+    position: relative;
+    bottom: 19px;
+}
+#imagine8{
+    position: relative;
+    bottom: 500px;
+    left: 800px;
+}
+#imagine9{
+    position: relative;
+    bottom: 360px;
+    right: 900px;
+}
+#imagine10{
+    position: relative;
+    bottom: 200px;
+    right: 900px;
+}
